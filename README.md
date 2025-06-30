@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Maurya</h1>
+<h1 align="center">Hi 👋, I'm Vivek Ranjan</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amancoder01&label=Profile%20views&color=0e75b6&style=flat" alt="amancoder01" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  **Java , React , Node , Express**
 
-- 📫 How to reach me **amanofficialcoder01@gmail.com**
+- 📫 How to reach me **vivekranjan1409@gmail.com**
 
 - 📄 Know about my experiences [Coming](Coming)
 
