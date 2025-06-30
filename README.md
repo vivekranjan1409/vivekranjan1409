@@ -21,7 +21,7 @@
 
 ### 🏆 *GitHub Achievements*
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=amancoder01&theme=onedark&row=1&column=6" alt="GitHub Achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vivekranjan1409&theme=onedark&row=1&column=6" alt="GitHub Achievements" />
 </p>
 
 ---
