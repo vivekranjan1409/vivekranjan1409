@@ -47,18 +47,18 @@
 
 ### 🛠️ *Languages and Tools*
 <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancoder01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekranjan1409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
 
 <div  align="center">
-<img src="https://nirzak-streak-stats.vercel.app?user=amancoder01&theme=dark&card_width=465" height="220" alt="Streak Graph"  />
+<img src="https://nirzak-streak-stats.vercel.app?user=vivekranjan1409&theme=dark&card_width=465" height="220" alt="Streak Graph"  />
 </div>
 
 ---
 
 ### 📊 *Contribution Graph*
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amancoder01&bg_color=1a1b27&color=9cf&line=5BCDEC&point=F1F0C0&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekranjan1409&bg_color=1a1b27&color=9cf&line=5BCDEC&point=F1F0C0&hide_border=true" alt="Contribution Graph" />
 </p>
