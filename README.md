@@ -34,11 +34,11 @@
 ### 🤝 *Connect with Me*
 
 <p align="left">
-<a href="https://linkedin.com/in/vivek-ranjan-6b2935291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amancoder01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-ranjan-6b2935291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vievkranjan1409" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_ranjan_gupta" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_aman_091" height="30" width="40" />
 </a>
-  <a href="https://www.hackerrank.com/profile/vivekranjanjihu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amancoder01" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/vivekranjanjihu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekranjan1409" height="30" width="40" /></a>
 </p>
 
 
